@@ -1,7 +1,7 @@
 import './App.css';
 import React from 'react';
 
-import FetchRandomUser from "./FetchRandomUser";
+import FetchRandomUser from "./components/FetchRandomUser";
 
 class App extends React.Component {
   state = {
